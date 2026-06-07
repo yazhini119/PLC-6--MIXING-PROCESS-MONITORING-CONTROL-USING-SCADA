@@ -1,5 +1,6 @@
 # PLC-6--MIXING-PROCESS-MONITORING-CONTROL-USING-SCADA
 
+
 ## Aim
 To monitor and control a mixer process using SCADA software by controlling the filling, mixing, and discharge operations automatically.
 
@@ -51,9 +52,9 @@ Start the process and observe filling, mixing, and discharge operations.
 
 
 
+<img width="1917" height="1034" alt="image" src="https://github.com/user-attachments/assets/d6287e37-65af-4ec9-8528-c12c4a263e69" />
 
 
- 
 
 
 
@@ -66,4 +67,3 @@ Start the process and observe filling, mixing, and discharge operations.
 
 ## Result
 The mixer process was successfully monitored and controlled using SCADA software. The system automatically performed filling, mixing, and discharge operations according to the predefined sequence while displaying real-time process information on the SCADA screen.
-
